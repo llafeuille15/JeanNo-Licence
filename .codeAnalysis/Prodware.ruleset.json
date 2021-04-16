@@ -1,0 +1,32 @@
+{
+    "name": "Quality Management RuleSet",
+    "description": "Customizations to the default Business Central RuleSet",
+    "rules": [
+        {
+            "id": "AA0215",
+            "action": "None",
+            "justification": "Migration"
+        },
+        {
+            "id": "AA0214",
+            "action": "None",
+            "justification": "No Tool tip"
+        },
+        {
+            "id": "AA0218",
+            "action": "None",
+            "justification": "No Tool tip"
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "Migration"
+        }
+        ,
+        {
+            "id": "AA0008",
+            "action": "None",
+            "justification": "Migration"
+        }
+     ]
+}
